@@ -34,7 +34,7 @@ Loga be **work sript standard** for developer. **Ta** delete hard English gramma
 ### 1. Simple SVO (主謂賓)
 No change order. 
 * *English*: The scripts were updated by me.
-* **Loga**: `Me already update sript.`
+* **Loga**: `Wa already update sript.`
 
 ### 2. State Clear (狀態明確)
 No use word have many mean like "down" or "get".
@@ -58,8 +58,8 @@ Verb always use base form. No plural form for noun. Use label show time and mood
     * `U noi what?` (你知道什麼？)
     * `U run sript how?` (你如何運行腳本？)
     * `U like Loga ma?` (你喜歡邏加語嗎？)
-    * `Me will fix wong code.` (我會修復錯誤代碼。)
-    * `Me already fix wong code.` (我已經修復了錯誤代碼。)
+    * `Wa will fix wong code.` (我會修復錯誤代碼。)
+    * `Wa already fix wong code.` (我已經修復了錯誤代碼。)
 
 ---
 
