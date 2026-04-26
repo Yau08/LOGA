@@ -41,10 +41,17 @@ Shorten long words and smooth complex consonants.
 * `Storm` -> **Sidom**
 * `Environment` -> **Enviro**
 
-### 4. Time Labels (時態標籤)
-* **Past**: Add `already`.
-* **Future**: Add `will`.
-* *Example*: `Me will fix wrong code.`
+### 4. Tense & Interrogative Labels
+Verbs always remain in their base form. Tense and mood are expressed via labels (tags).
+
+* **Past**: Add `already` | **Future**: Add `will`
+* **Questions**: No inversion. Keep the SVO order and place the question word at the end.
+    * `U noi what?` (What do you know?)
+    * `U run sript how?` (How do you run the script?)
+    * `U like Loga ma?` (Do you like Loga?)
+    * `Me will fix wong code.` (I will fix the wrong code.)
+    * `Me already fix wong code.` (I have fixed the wrong code.)
+
 
 ---
 
