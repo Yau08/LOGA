@@ -1,6 +1,6 @@
 # Loga (邏加) — Tech Bridge Logic
 
-Detail Info Chin Check WiKi. [![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/你的用戶名/你的倉庫名/wiki)
+Detail Info Chin Check WiKi. [![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/Yau08/LOGA/wiki)
 
 > **Wan Nation de Word. Chinawen de Logic. Lin Grammar Worry.**
 > **萬國詞，中文心，零語法焦慮。**
