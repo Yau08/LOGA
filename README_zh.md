@@ -5,6 +5,7 @@
 
 **Languages / 语言:**
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
+[![qlg](https://img.shields.io/badge/lang-Loga-orange.svg)](README_qlg.md)
 [![zh-cn](https://img.shields.io/badge/lang-简体中文-red.svg)](README_zh.md)
 [![zh-tw](https://img.shields.io/badge/lang-繁體中文-green.svg)](README_tc.md)
 
