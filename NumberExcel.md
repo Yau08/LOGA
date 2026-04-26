@@ -23,4 +23,5 @@
 | 1,000,000 | yebowan | 100 * Myriad | 100 萬 (yebo + wan) |
 | 10,000,000 | yechanwan | 1,000 * Myriad | 1,000 萬 (yechan + wan) |
 | 100,000,000 | yeyi | 1 * Octad (yi) | 1 億 (yi 為億位掛載點) |
+| 1,000,000,000 | seyi | 10 * Octad | 10 億 (ause + yi) |
 | 2,000,000,000 | auseyi | 20 * Octad | 20 億 (ause + yi) |
