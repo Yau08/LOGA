@@ -25,7 +25,7 @@ Loga is a **functional language standard** designed for developers. It eliminate
 ## 📏 Core Rules (核心規範)
 
 ### 1. Simple SVO (主謂賓結構)
-No passive voice, no inversions.
+No inversions.
 * *Standard*: The script was updated by me.
 * **Loga**: `Me update script already.`
 
