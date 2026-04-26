@@ -5,7 +5,7 @@
 
 <div align="center">
 
-**Languages / 語言**
+**Languages / 語言:**
 
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
 [![qlg](https://img.shields.io/badge/lang-Loga-orange.svg)](README_qlg.md)
