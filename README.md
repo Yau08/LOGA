@@ -1,7 +1,7 @@
 # Loga (邏格) — Technical Bridge Logic
 
-> **English Roots. Sinitic Logic. Zero Grammar Anxiety.**
-> **英語詞，中國心（邏輯），零語法焦慮。**
+> **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
+> **萬國詞，中國心（邏輯），零語法焦慮。**
 
 **Languages / 語言:**
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
