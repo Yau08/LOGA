@@ -1,7 +1,7 @@
 # Loga (逻辑) — 全球技术沟通的逻辑协议
 
-> **English Roots. Sinitic Logic. Zero Grammar Anxiety.**
-> **英语词，中国心（逻辑），零语法焦虑。**
+> **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
+> **万国词，中国心（逻辑），零语法焦虑。**
 
 **Languages / 语言:**
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
