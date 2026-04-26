@@ -30,7 +30,7 @@ Loga is a **functional language standard** designed for developers. It eliminate
 ### 1. Simple SVO (主謂賓結構)
 No inversions.
 * *Standard*: The script was updated by me.
-* **Loga**: `Me update script already.`
+* **Loga**: `Wa update script already.`
 
 ### 2. State Clarity (狀態明確)
 Avoid multi-meaning words like "down" or "get".
@@ -52,8 +52,8 @@ Verbs always remain in their base form. Tense and mood are expressed via labels 
     * `U noi what?` (What do you know?)
     * `U run sript how?` (How do you run the script?)
     * `U like Loga ma?` (Do you like Loga?)
-    * `Me will fix wong code.` (I will fix the wrong code.)
-    * `Me already fix wong code.` (I have fixed the wrong code.)
+    * `Wa will fix wong code.` (I will fix the wrong code.)
+    * `Wa already fix wong code.` (I have fixed the wrong code.)
 
 
 ---
@@ -63,7 +63,7 @@ Verbs always remain in their base form. Tense and mood are expressed via labels 
 | Language | Sentence |
 | :--- | :--- |
 | **Standard English** | If you encounter an error while running the script, please restart the server. |
-| **Loga (邏加)** | `If you find wrong when run script, you restart server.` |
+| **Loga (邏加)** | `If u find wong when run sript, chin restart server.` |
 | **Standard Chinese** | 如果你在執行腳本時遇到錯誤，請重啟伺服器。 |
 
 ---
