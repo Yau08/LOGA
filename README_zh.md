@@ -1,5 +1,7 @@
 # Loga (逻加) — 全球技术沟通的逻辑协议
 
+详细内容请查询Wiki。[![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/Yau08/LOGA/wiki)
+
 > **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
 > **万国词，中国心（逻辑），零语法焦虑。**
 
