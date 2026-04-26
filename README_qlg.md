@@ -1,4 +1,4 @@
-# Loga (邏格) — Tech Bridge Logic
+# Loga (邏加) — Tech Bridge Logic
 
 > **Wan Nation de Word. Chinawen de Logic. Lin Grammar Worry.**
 > **萬國詞，中文心，零語法焦慮。**
@@ -19,7 +19,7 @@ Loga be **work sript standard** for developer. **Ta** delete hard English gramma
 
 ---
 
-## 🛠 Use Loga Why? (為什麼使用邏格？)
+## 🛠 Use Loga Why? (為什麼使用邏加？)
 
 * **No "Down" Wong**: Use clear word for state (e.g.: `stop`, `wong`).
 * **Soft Sound**: Simple hard word (e.g.: `Experience` -> `Eberence`).
@@ -55,7 +55,7 @@ Verb always use base form. No plural form for noun. Use label show time and mood
 * **Question**: No change order. SVO stay, put question word at end.
     * `U noi what?` (你知道什麼？)
     * `U run sript how?` (你如何運行腳本？)
-    * `U like Loga ma?` (你喜歡邏格語嗎？)
+    * `U like Loga ma?` (你喜歡邏加語嗎？)
     * `Me will fix wong code.` (我會修復錯誤代碼。)
     * `Me already fix wong code.` (我已經修復了錯誤代碼。)
 
