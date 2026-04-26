@@ -17,7 +17,7 @@ Loga is a **functional language standard** designed for developers. It eliminate
 ## 🛠 Why Loga? (為什麼使用邏格？)
 
 * **No "Down" Ambiguity**: Replaces vague words with precise states (e.g., `stop`, `wrong`).
-* **Phonetic Smoothing**: Simplifies hard-to-read words (e.g., `Experience` -> `Eberense`).
+* **Phonetic Smoothing**: Simplifies hard-to-read words (e.g., `Experience` -> `Eberence`).
 * **Sinitic Logic**: Follows the natural thinking flow of Chinese speakers, which is also the most direct path for AI and non-native speakers.
 
 ---
