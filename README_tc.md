@@ -1,5 +1,6 @@
 # Loga (邏加) — 全球技術溝通的邏輯協議
 
+詳細內容請查詢Wiki。[![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/Yau08/LOGA/wiki)
 > **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
 > **萬國詞，中國心（邏輯），零語法焦慮。**
 
