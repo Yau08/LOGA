@@ -1,4 +1,4 @@
-# Loga (邏格) — Technical Bridge Logic
+# Loga (邏加) — Technical Bridge Logic
 
 > **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
 > **萬國詞，中國心（邏輯），零語法焦慮。**
