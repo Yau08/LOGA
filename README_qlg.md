@@ -23,7 +23,7 @@ Loga be **work sript standard** for developer. **Ta** delete hard English gramma
 
 * **No "Down" Wong**: Use clear word for state (e.g.: `stop`, `wong`).
 * **Soft Sound**: Simple hard word (e.g.: `Experience` -> `Eberence`).
-* **Chinade Logic**: Follow Chinade brain logic. **La** be fast road for AI and human.
+* **China de Logic**: Follow Chinade brain logic. **La** be fast road for AI and human.
 
 ---
 
