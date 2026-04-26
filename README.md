@@ -1,7 +1,7 @@
 # Loga (邏加) — Technical Bridge Logic
 
 > **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
-> **萬國詞，中國心（邏輯），零語法焦慮。**
+> **萬國詞，中國心（邏加），零語法焦慮。**
 
 **Languages / 語言:**
 [![en](https://img.shields.io/badge/lang-English-blue.svg)](README.md)
@@ -15,7 +15,7 @@ Loga is a **functional language standard** designed for developers. It eliminate
 
 ---
 
-## 🛠 Why Loga? (為什麼使用邏格？)
+## 🛠 Why Loga? (為什麼使用邏加？)
 
 * **No "Down" Ambiguity**: Replaces vague words with precise states (e.g., `stop`, `wrong`).
 * **Phonetic Smoothing**: Simplifies hard-to-read words (e.g., `Experience` -> `Eberence`).
@@ -61,7 +61,7 @@ Verbs always remain in their base form. Tense and mood are expressed via labels 
 | Language | Sentence |
 | :--- | :--- |
 | **Standard English** | If you encounter an error while running the script, please restart the server. |
-| **Loga (邏格)** | `If you find wrong when run script, you restart server.` |
+| **Loga (邏加)** | `If you find wrong when run script, you restart server.` |
 | **Standard Chinese** | 如果你在執行腳本時遇到錯誤，請重啟伺服器。 |
 
 ---
