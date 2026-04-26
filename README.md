@@ -1,6 +1,6 @@
 # Loga (邏加) — Technical Bridge Logic
 
-Please check the Wiki for details. [![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/你的用戶名/你的倉庫名/wiki)
+Please check the Wiki for details. [![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/Yau08/LOGA/wiki)
 
 > **Global Roots. Sinitic Logic. Zero Grammar Anxiety.**
 > **萬國詞，中國心（邏加），零語法焦慮。**
