@@ -16,7 +16,7 @@ Please check the Wiki for details. [![Wiki](https://img.shields.io/badge/docs-wi
 Loga is a **functional language standard** designed for developers. It eliminates complex English grammar (tenses, clauses, inflections) and replaces it with simple **SVO (Subject-Verb-Object) logic**, ensuring your GitHub READMEs and code comments are understood globally without translators.
 
 ---
-
+## ⚠⚠⚠ The following content is not actual content, and some of it is outdated and has been modified in reality.
 ## 🛠 Why Loga? (為什麼使用邏加？)
 
 * **No "Down" Ambiguity**: Replaces vague words with precise states (e.g., `stop`, `wrong`).
